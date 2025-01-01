@@ -31,6 +31,7 @@ Build and Start Containers:
 
 1. **Build and Start Containers**:
    ```bash
+   docker compose build --no-cache
    docker compose up -d
    ```
 2. Access Services:
